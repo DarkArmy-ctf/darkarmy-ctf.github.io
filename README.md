@@ -20,4 +20,5 @@ Down for CTFs and Hacking Machines
 ## Links:
 [github](github.com/TeamDarkArmy)
 [ctftime](https://ctftime.org/team/26569)
+[Discord](https://discord.gg/b4YKgju)
 
