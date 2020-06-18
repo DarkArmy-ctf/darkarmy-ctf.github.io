@@ -3,6 +3,7 @@
 ## Ranking:
 >Ranking as per CTFTime.org 
 India: 11
+
 ## Description:
 
 Dark Army is an International CTF Team and Just a normal looking team with great minds for security also hard working cybersecurity enthusiasts. 
@@ -12,9 +13,9 @@ Down for CTFs and Hacking Machines
 
 |                    CTF                |       Year        |
 |------------------------------|----------------|
-|       ReallyAwsomeCTF     |       [2020](https://github.com/TeamDarkArmy/ctf-writeups/tree/master/noobCTF)     |
-|           NoobCTF 0x1         |       [2020](https://github.com/TeamDarkArmy/ctf-writeups/tree/master/ractf)    |
-|             Zh3r0CTF             |       [2020](https://github.com/TeamDarkArmy/ctf-writeups/tree/master/zh3r0ctf)    |
+|       ReallyAwsomeCTF     |       [2020](https://github.com/DarkArmy-ctf/ctf-writeups/tree/master/ractf)     |
+|           NoobCTF 0x1         |       [2020](https://github.com/DarkArmy-ctf/ctf-writeups/tree/master/noobCTF)    |
+|             Zh3r0CTF             |       [2020](https://github.com/DarkArmy-ctf/ctf-writeups/tree/master/zh3r0ctf)    |
 
 ## Links:
 [github](github.com/TeamDarkArmy)
