@@ -13,7 +13,7 @@ Down for CTFs and Hacking Machines
 
 |                    CTF                |       Year        |
 |------------------------------|----------------|
-|       ReallyAwsomeCTF     |       [2020](https://github.com/DarkArmy-ctf/ctf-writeups/tree/master/ractf)     |
+|       ReallyAwesomeCTF     |       [2020](https://github.com/DarkArmy-ctf/ctf-writeups/tree/master/ractf)     |
 |           NoobCTF 0x1         |       [2020](https://github.com/DarkArmy-ctf/ctf-writeups/tree/master/noobCTF)    |
 |             Zh3r0CTF             |       [2020](https://github.com/DarkArmy-ctf/ctf-writeups/tree/master/zh3r0ctf)    |
 
