@@ -2,7 +2,7 @@
 ![DarkArmy.png](https://ctftime.org/media/cache/d0/c0/d0c00e45cf298278fbbc457f42129aea.png)
 ## Ranking:
 >Ranking as per CTFTime.org 
-India: 11
+India: 8
 
 ## Description:
 
