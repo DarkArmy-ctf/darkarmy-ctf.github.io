@@ -18,7 +18,7 @@ Down for CTFs and Hacking Machines
 |             Zh3r0CTF             |       [2020](https://github.com/DarkArmy-ctf/ctf-writeups/tree/master/zh3r0ctf)    |
 
 ## Links:
-[github](github.com/TeamDarkArmy)
+[github](https://github.com/TeamDarkArmy)
 [ctftime](https://ctftime.org/team/26569)
 [Discord](https://discord.gg/b4YKgju)
 
