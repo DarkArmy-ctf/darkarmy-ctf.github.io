@@ -6,7 +6,7 @@
 Dark Army is an International CTF Team and Just a normal looking team with great minds for security also hard working cybersecurity enthusiasts. 
 Down for CTFs and Hacking Machine
 
-##DarkCTF Coming soon...
+## DarkCTF Coming soon...
 We at DarkArmy are organising a Capture The Flag for all the hackers out there.  
 From a certified top tier cybersecurity to an enthusiastic beginner at hacking,  
 Anyone can join. We promise, it's gonna be fun!  
