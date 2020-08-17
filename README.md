@@ -1,21 +1,28 @@
-# Team Dark Army
-![DarkArmy.png](https://ctftime.org/media/cache/d0/c0/d0c00e45cf298278fbbc457f42129aea.png)
-## Ranking:
->Ranking as per CTFTime.org 
-India: 8
+#Team Dark Ary
+![darkCTF](https://ctftime.org/media/cache/d0/c0/d0c00e45cf298278fbbc457f42129aea.png)
 
 ## Description:
 
 Dark Army is an International CTF Team and Just a normal looking team with great minds for security also hard working cybersecurity enthusiasts. 
-Down for CTFs and Hacking Machines
+Down for CTFs and Hacking Machine
 
-## Writeups:
+## Coming soon...
+We at DarkArmy are organising a Capture The Flag for all the hackers out there.  
+From a certified top tier cubersecurity to an enthusiastic beginner at hacking,  
+Anyone can join. We promise, it's gonna be fun!  
+![darkCTF](rgblogo.png)
 
-|                    CTF                |       Year        |
-|------------------------------|----------------|
-|       ReallyAwesomeCTF     |       [2020](https://github.com/DarkArmy-ctf/ctf-writeups/tree/master/ractf)     |
-|           NoobCTF 0x1         |       [2020](https://github.com/DarkArmy-ctf/ctf-writeups/tree/master/noobCTF)    |
-|             Zh3r0CTF             |       [2020](https://github.com/DarkArmy-ctf/ctf-writeups/tree/master/zh3r0ctf)    |
+## Categories:
+1. Web
+2. Miscellaneous
+3. Forensics
+4. Reversing
+5. Pwn
+6. Crypto
+7. OSINT
+
+
+#### FLAGS! Capture 'em all!
 
 ## Links:
 [github](https://github.com/TeamDarkArmy)
