@@ -1,4 +1,4 @@
-#Team Dark Ary
+#Team Dark Army  
 ![darkCTF](https://ctftime.org/media/cache/d0/c0/d0c00e45cf298278fbbc457f42129aea.png)
 
 ## Description:
