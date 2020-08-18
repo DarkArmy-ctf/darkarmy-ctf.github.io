@@ -1,2 +1,5 @@
+title: DarkArmy
+description: Crazy for flags, open for all CTF team based in India
 theme: jekyll-theme-hacker
-github: is_project_page: false
+github:
+  is_project_page: false
