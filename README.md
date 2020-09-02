@@ -10,6 +10,8 @@ Down for CTFs and Hacking Machine
 We at DarkArmy are organising a Capture The Flag for all the hackers out there.  
 From a certified top tier cybersecurity to an enthusiastic beginner at hacking,  
 Anyone can join. We promise, it's gonna be fun!  
+Event: 25 September, 8:30 AM (IST) - 27 September, 8:30 AM (IST)  
+[ctftime darkCTF](https://ctftime.org/event/1118)
 ![darkCTF](rgblogo.png)
 
 ## Categories:
@@ -25,7 +27,8 @@ Anyone can join. We promise, it's gonna be fun!
 #### FLAGS! Capture 'em all!
 
 ## Links:
-[github](https://github.com/TeamDarkArmy)
-[ctftime](https://ctftime.org/team/26569)
-[Discord](https://discord.gg/b4YKgju)
+[github](https://github.com/TeamDarkArmy)  
+[ctftime](https://ctftime.org/team/26569)  
+[Discord (DarkArmy)](https://discord.gg/b4YKgju)  
+[Discord (DarkCTF)](https://discord.gg/T5x6zvA)
 
